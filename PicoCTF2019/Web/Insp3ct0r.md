@@ -50,7 +50,7 @@
 	</html>
 	```
 
-	At this point we already have the first part of the flag (picoCTF{tru3_d3). Now let's get a look on the js file script `<script type="application/javascript" src="myjs.js"></script>`.
+	At this point we already have the first part of the flag `picoCTF{tru3_d3`. Now let's get a look on the js file script `<script type="application/javascript" src="myjs.js"></script>`.
 
 	```
 	function openTab(tabName,elmnt,color) {
@@ -75,6 +75,6 @@
 
 		/* Javascript sure is neat. Anyways part 3/3 of the flag: _lucky?1638dbe7} */
 	```
-
+	Now we have the last part of the flag, now we need get the second one `_lucky?1638dbe7}`. Just go to the css file and see the source code to, you will get this `/* You need CSS to make pretty pages. Here's part 2/3 of the flag: t3ct1ve_0r_ju5t */`
 
 #### Flag: **{{flag}}**
