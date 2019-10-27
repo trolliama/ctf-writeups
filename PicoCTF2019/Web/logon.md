@@ -10,11 +10,11 @@
 	This chall has something to do with the cookies site. First you will need of some extension to edit the cookies, i am using the 
   `Cookie Quick Manager`
   
+  ![cookie quick manager](https://github.com/trolliama/ctf-writeups/blob/master/PicoCTF2019/Web/images/2019-10-27_00-04.png)
+
+	Now with the extension installed you can modify the cookie `admin:False` to True, and then get the flag.
   ![cookie quick manager](https://github.com/trolliama/ctf-writeups/blob/master/PicoCTF2019/Web/images/2019-10-27_00-04_1.png)
 
-	- Passo2
-		- Passo2_extra
 
-
-#### Flag: **{{flag}}**
+#### Flag: **picoCTF{th3_c0nsp1r4cy_l1v3s_2e19dad3}**
 
