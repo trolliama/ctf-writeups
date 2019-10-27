@@ -77,4 +77,4 @@
 	```
 	Now we have the last part of the flag, now we need get the second one `_lucky?1638dbe7}`. Just go to the css file and see the source code to, you will get this `/* You need CSS to make pretty pages. Here's part 2/3 of the flag: t3ct1ve_0r_ju5t */`
 
-#### Flag: **{{flag}}**
+#### Flag: **picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?1638dbe7}**
