@@ -10,7 +10,7 @@
 	This chall has something to do with the cookies site. First you will need of some extension to edit the cookies, i am using the 
   `Cookie Quick Manager`
   
-  ![cookie quick manager](https://imgur.com/a/JdXTNMx)
+  ![cookie quick manager](https://github.com/trolliama/ctf-writeups/blob/master/PicoCTF2019/Web/images/2019-10-27_00-04_1.png)
 
 	- Passo2
 		- Passo2_extra
