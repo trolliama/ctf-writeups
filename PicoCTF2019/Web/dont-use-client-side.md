@@ -41,7 +41,7 @@
   The verify fuction use parts of the flag to verify the password, then you get the positions of the words,
   like `split*6` it's the position 24 of the flag word and the `split*7` it's the 28. So then you just need
   put it together on the right order.
-
+```
 
 #### Flag: **picoCTF{no_clients_plz_56a8eb}**
 
